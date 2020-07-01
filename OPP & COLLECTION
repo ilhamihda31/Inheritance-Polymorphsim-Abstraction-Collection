@@ -14,7 +14,7 @@ namespace Tugas M Ilham Ihda Salasin
 
             KaryawanTetap karyawanTetap = new KaryawanTetap();
             karyawanTetap.NIK = "2829";
-            karyawanTetap.Nama = "Rahma Pamela";
+            karyawanTetap.Nama = "M Ilham Ihda Salasin";
             karyawanTetap.GajiBulanan = 10000000;
 
             KaryawanHarian karyawanHarian = new KaryawanHarian();
